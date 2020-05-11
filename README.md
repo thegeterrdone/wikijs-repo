@@ -4,7 +4,7 @@ This repo is an Open Toolchain definition for IBM Cloud Continuous Delivery, to 
 
 This deployment assumes you have an [IBM Cloud account](https://cloud.ibm.com/registration).
 
-For information about Wiki.js, including detailed installation steps, read the following links:
+For information about Wiki.js, including detailed installation steps, read the following links: - 
 
 - [Official Website](https://wiki.js.org/)
 - [Installation Guide](https://wiki.js.org/get-started.html)
